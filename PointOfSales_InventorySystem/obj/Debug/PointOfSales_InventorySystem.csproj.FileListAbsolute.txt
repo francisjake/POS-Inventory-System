@@ -1,0 +1,292 @@
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\PointOfSales_InventorySystem.exe.config
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\PointOfSales_InventorySystem.exe
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\PointOfSales_InventorySystem.pdb
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\EnvDTE.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\stdole.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.MSXML.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Admin.resources
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Forms.AddProd.resources
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Forms.AddItem.resources
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Forms.CustomProduct.resources
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Login.resources
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Properties.Resources.resources
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Register.resources
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.User.resources
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.csproj.GenerateResource.cache
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.csproj.CopyComplete
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.exe
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.pdb
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.csprojAssemblyReference.cache
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\PointOfSales_InventorySystem.exe.config
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\PointOfSales_InventorySystem.exe
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\PointOfSales_InventorySystem.pdb
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\EnvDTE.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\stdole.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\Microsoft.MSXML.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Admin.resources
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Forms.AddProd.resources
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Forms.AddItem.resources
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Forms.CustomProduct.resources
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Login.resources
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Properties.Resources.resources
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Register.resources
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.User.resources
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.csproj.GenerateResource.cache
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.csproj.CopyComplete
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.exe
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.pdb
+C:\Users\fjalc\source\repos\PointOfSales_InventorySystem - Copy\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.csproj.AssemblyReference.cache
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\PointOfSales_InventorySystem.exe.config
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\PointOfSales_InventorySystem.exe
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\PointOfSales_InventorySystem.pdb
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\EnvDTE.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\stdole.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\Microsoft.MSXML.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.csproj.AssemblyReference.cache
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Admin.resources
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Forms.AddProd.resources
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Forms.AddItem.resources
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Forms.CustomProduct.resources
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Login.resources
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Properties.Resources.resources
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.Register.resources
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.User.resources
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.csproj.GenerateResource.cache
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.csproj.CopyComplete
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.exe
+C:\Users\JustJake\source\repos\PointOfSales_InventorySystem\PointOfSales_InventorySystem\obj\Debug\PointOfSales_InventorySystem.pdb
